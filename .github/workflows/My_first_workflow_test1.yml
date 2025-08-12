@@ -4,7 +4,6 @@ name: CI
 
 # Controls when the workflow will run
 on:
-  Jobs: 
     runs-on: ubuntu-latest
 
       # Runs a single command using the runners shell
